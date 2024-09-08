@@ -1,0 +1,16 @@
+D:\TodoApp c#\TodoApp\bin\Debug\net8.0-windows\TodoApp.exe
+D:\TodoApp c#\TodoApp\bin\Debug\net8.0-windows\TodoApp.deps.json
+D:\TodoApp c#\TodoApp\bin\Debug\net8.0-windows\TodoApp.runtimeconfig.json
+D:\TodoApp c#\TodoApp\bin\Debug\net8.0-windows\TodoApp.dll
+D:\TodoApp c#\TodoApp\bin\Debug\net8.0-windows\TodoApp.pdb
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.ToDoList.resources
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.csproj.GenerateResource.cache
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfoInputs.cache
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.AssemblyInfo.cs
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.csproj.CoreCompileInputs.cache
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.dll
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\refint\TodoApp.dll
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.pdb
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\TodoApp.genruntimeconfig.cache
+D:\TodoApp c#\TodoApp\obj\Debug\net8.0-windows\ref\TodoApp.dll
